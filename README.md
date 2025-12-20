@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VSV24/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VSV24/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VSV24/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
