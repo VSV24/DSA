@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VSV24/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VSV24/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/VSV24/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/VSV24/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/VSV24/DSA/tree/master/0027-remove-element) |
 ## Counting
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
