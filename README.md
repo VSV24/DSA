@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VSV24/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VSV24/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VSV24/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VSV24/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VSV24/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VSV24/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -81,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
