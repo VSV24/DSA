@@ -1,6 +1,5 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        res = 0
         roman = {
             'I': 1,
             'V': 5,
@@ -10,10 +9,14 @@ class Solution:
             'D': 500,
             'M': 1000
         }
-        for a,b in zip(s,s[1:]):
-            if roman[a]<roman[b]:
-                res-=roman[a]
+        sum=0
+        i=0
+        while i<len(s)-1:
+            if roman[s[i]]<roman[s[i+1]]:
+                sum-=roman[s[i]]
             else:
-                res+=roman[a]
-        return res + roman[s[-1]]
+                sum+=roman[s[i]]
+            i+=1
+        sum+=roman[s[i]]
+        return sum
 
