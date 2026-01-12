@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
+| [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
+| [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VSV24/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VSV24/DSA/tree/master/0242-valid-anagram) |
+| [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Trie
 |  |
 | ------- |
