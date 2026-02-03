@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/VSV24/DSA/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VSV24/DSA/tree/master/0219-contains-duplicate-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Bucket Sort
 |  |
 | ------- |
