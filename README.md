@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VSV24/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VSV24/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
