@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VSV24/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/VSV24/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VSV24/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VSV24/DSA/tree/master/0217-contains-duplicate) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
