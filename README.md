@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
+| [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
+| [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VSV24/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VSV24/DSA/tree/master/0152-maximum-product-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
