@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/VSV24/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VSV24/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VSV24/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/VSV24/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
@@ -30,23 +31,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/VSV24/DSA/tree/master/3637-trionic-array-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VSV24/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VSV24/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/VSV24/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VSV24/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/VSV24/DSA/tree/master/0041-first-missing-positive) |
@@ -63,8 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/VSV24/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
@@ -75,92 +76,92 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/VSV24/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VSV24/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VSV24/DSA/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VSV24/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VSV24/DSA/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VSV24/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/VSV24/DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/VSV24/DSA/tree/master/0189-rotate-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VSV24/DSA/tree/master/0011-container-with-most-water) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/VSV24/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/VSV24/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VSV24/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/VSV24/DSA/tree/master/0238-product-of-array-except-self) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VSV24/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VSV24/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VSV24/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VSV24/DSA/tree/master/0152-maximum-product-subarray) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
