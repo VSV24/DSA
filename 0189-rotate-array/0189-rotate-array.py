@@ -1,17 +1,19 @@
 class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
-        temp = []
+    def rotate(self, nums: list[int], k: int) -> None:
+
         n = len(nums)
-        steps = k % n
-        x,y = n-steps,0
-        for _ in range(n):
-            if x < n:
-                temp.append(nums[x])
-                x+=1
-            elif y < n-steps:
-                temp.append(nums[y])
-                y+=1
-        nums[:] = temp
-        
 
+        if n == 0:
+            return
 
+        k %= n
+
+        def reverse(left, right):
+            while left < right:
+                nums[left], nums[right] = nums[right], nums[left]
+                left += 1
+                right -= 1
+
+        reverse(0, n-1)
+        reverse(0, k-1)
+        reverse(k, n-1)
