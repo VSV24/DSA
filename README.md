@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VSV24/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/VSV24/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VSV24/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/VSV24/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VSV24/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/VSV24/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0705-design-hashset](https://github.com/VSV24/DSA/tree/master/0705-design-hashset) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VSV24/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/VSV24/DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/VSV24/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VSV24/DSA/tree/main/0283-move-zeroes/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
