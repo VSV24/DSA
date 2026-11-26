@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/VSV24/DSA/tree/master/1122-relative-sort-array) |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/VSV24/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
