@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VSV24/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/VSV24/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/VSV24/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VSV24/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/VSV24/DSA/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/VSV24/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VSV24/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VSV24/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VSV24/DSA/tree/main/0169-majority-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/VSV24/DSA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
