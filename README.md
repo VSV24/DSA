@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/VSV24/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VSV24/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VSV24/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0118-pascals-triangle](https://github.com/VSV24/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VSV24/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/VSV24/DSA/tree/master/0152-maximum-product-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/VSV24/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VSV24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VSV24/DSA/tree/master/0152-maximum-product-subarray) |
 ## Counting Sort
